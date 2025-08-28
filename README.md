@@ -1,2 +1,2 @@
 # SRU
-First teomolate
+First template
